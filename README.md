@@ -3,7 +3,7 @@ NINJA(D): NINJA(D) Is Not Just Another Dashboard
 
 ...
 
-Il nome dell’artefatto di progetto, rappresentato da un acronimo ricorsivo, ricorda in modo esponenziale (o iperbolico) l’ambito applicativo e il contesto gestionale del prodotto realizzato: una dashboard manageriale potente e al tempo stesso innovativa. In realtà esso è anche un “backronym” (https://thehabit.co/retronyms-backronyms-recursive-acronyms/), in quanto richiama direttamente il sostantivo “Ninja”. Da Wikipedia (IT):
+Il nome dell’artefatto di progetto, rappresentato da un acronimo ricorsivo, ricorda in modo esponenziale (o iperbolico) l’ambito applicativo e il contesto gestionale del prodotto realizzato: una dashboard manageriale potente e al tempo stesso innovativa. In realtà esso è anche un “backronym” (https://thehabit.co/retronyms-backronyms-recursive-acronyms/), in quanto richiama direttamente il sostantivo “Ninja”. Da Wikipedia ([IT](https://it.wikipedia.org/wiki/Ninja)):
 
 > I ninja […] erano spie o mercenari del Giappone feudale. […] Le funzioni del ninja includevano: lo spionaggio, il sabotaggio, l'infiltrazione, l'assassinio e la guerriglia. I metodi non regolari di combattimento erano ritenuti "disonorevoli" e "inferiori" dalla casta dei samurai, che osservava regole severe circa l'onore e il combattimento.
 
