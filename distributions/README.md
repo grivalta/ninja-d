@@ -1,2 +1,3 @@
 # Distributions (Distros)
 * n4D Javascript distro: https://github.com/grivalta/ninja-d.js
+* n4D Python distro: https://github.com/grivalta/ninja-d.py
