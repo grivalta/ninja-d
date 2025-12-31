@@ -1,6 +1,8 @@
 # ninja-d
 NINJA[D]: NINJA[D] Is Not Just Another Dashboard
 
+(Il mirror del repository https://github.com/grivalta/ninja-d.js dedicato al mio recente Project Work universitario si trova in [https://github.com/grivalta/ninja-d/distributions/ninja-d.js](https://github.com/grivalta/ninja-d/tree/main/distributions/ninja-d.js); documentazione e biblio-sitografia in https://github.com/grivalta/ninja-d/tree/main/distributions/ninja-d.js/docs)
+
 ...
 
 Il nome dell’artefatto di progetto, rappresentato da un acronimo ricorsivo, ricorda in modo esponenziale (o iperbolico) l’ambito applicativo e il contesto gestionale del prodotto realizzato: una dashboard manageriale potente e al tempo stesso innovativa. In realtà esso è anche un “backronym” (https://thehabit.co/retronyms-backronyms-recursive-acronyms/), in quanto richiama direttamente il sostantivo “Ninja”. Da Wikipedia (https://it.wikipedia.org/wiki/Ninja):
