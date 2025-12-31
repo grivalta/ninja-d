@@ -17,5 +17,3 @@ Il materiale pubblicato è fornito **“così com’è”** (*as is*); in partic
 L’autore **non garantisce** in alcun modo supporto, manutenzione o riscontri alle eventuali issue o richieste.
 
 L’utilizzo del repository è ad **esclusiva responsabilità dell’utente**.
-
-...

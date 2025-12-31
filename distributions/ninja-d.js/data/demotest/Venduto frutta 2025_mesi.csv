@@ -1,0 +1,33 @@
+Mesi (Data ordine);Prodotto;Quantita;Ricavi
+mar;Lamponi;24;113,28
+mar;Mirtilli;17;96,9
+mar;Pesche;5;23,8
+mar;Prugne;9;38,34
+apr;Albicocche;18;78,84
+apr;Amarene;11;12,98
+apr;Ciliegie;22;39,16
+apr;Fragole;21;103,74
+apr;Lamponi;52;245,44
+apr;Mele;26;24,7
+apr;Mirtilli;30;171
+apr;Prugne;39;166,14
+apr;Ribes;23;34,96
+mag;Albicocche;137;600,06
+mag;Amarene;128;151,04
+mag;Ciliegie;78;138,84
+mag;Fragole;150;741
+mag;Lamponi;100;472
+mag;Mele;91;86,45
+mag;Mirtilli;47;267,9
+mag;Pesche;66;314,16
+mag;Prugne;136;579,36
+mag;Ribes;68;103,36
+giu;Cachi;18;69,12
+giu;Mele cotogne;1;0,9
+lug;Cachi;19;72,96
+lug;Mele cotogne;23;20,7
+lug;Melograno;13;42,64
+ago;Cachi;96;368,64
+ago;Mele cotogne;95;85,5
+ago;Melograno;27;88,56
+ago;Pere;132;372,24

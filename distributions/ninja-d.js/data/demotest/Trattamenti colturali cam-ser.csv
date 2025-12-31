@@ -1,0 +1,24 @@
+﻿Parcella;Tipologia;Coltura;Trattamento;Operatore;Macchinario;Materiali;Inizio;Fine;Resa qli
+Campo001;Pieno campo;Frumento;Semina;Ope01;Macch01;Mat01;15/10/2024;17/10/2024;
+Campo001;Pieno campo;Frumento;Concimazione;Ope01;Macch02;Mat02;22/02/2024;23/02/2024;
+Campo002;Pieno campo;Orzo;Semina;Ope01;Macch01;Mat01;20/10/2024;23/10/2024;
+Campo002;Pieno campo;Orzo;Concimazione;Ope01;Macch02;Mat02;25/02/2024;26/02/2024;
+Campo001;Pieno campo;Frumento;Raccolto;Ope02;Macch03;;26/06/2025;29/06/2025;225
+Campo002;Pieno campo;Orzo;Raccolto;Ope02;Macch03;;05/07/2025;12/07/2025;341
+Campo003;Pieno campo;Patate;Semina;Ope03;Macch04;Mat05;11/03/2024;13/03/2024;
+Campo003;Pieno campo;Patate;Trattamenti  vari;Ope04;Macch05;Mat07;03/08/2024;05/08/2024;
+Campo003;Pieno campo;Patate;Raccolto;Ope03;Macch04;;21/09/2024;22/09/2024;110
+Campo004;Pieno campo;Mele;Potatura secca;Ope05;Macch10;;27/01/2024;31/01/2024;
+Campo004;Pieno campo;Mele;Sfoltitura frutti;Ope08;Macch08;;16/06/2024;18/06/2024;
+Campo004;Pieno campo;Mele;Raccolto;Ope05;Macch08;;12/09/2024;17/09/2024;354
+Campo005;Pieno campo;Pesche;Potatura secca;Ope06;Macch10;;27/01/2024;29/01/2024;
+Campo005;Pieno campo;Pesche;Potatura verde;Ope06;Macch10;;22/07/2024;24/07/2024;
+Campo005;Pieno campo;Pesche;Raccolto;Ope06;Macch08;;03/07/2024;08/07/2024;287
+Serra001;Protetta;Peperoni;Trapianto;Ope10;;Mat12;28/03/2024;30/03/2024;
+Serra001;Protetta;Peperoni;Trattamenti  vari;Ope10;;;22/05/2024;23/05/2024;
+Serra001;Protetta;Peperoni;Trattamenti  vari;Ope11;;;16/07/2024;18/07/2024;
+Serra001;Protetta;Peperoni;Raccolto;Ope10;;;22/08/2024;23/08/2024;95
+Serra002;Protetta;Fragole;Impianto;Ope10;;Mat15;26/02/2024;28/02/2024;
+Serra002;Protetta;Peperoni;Trattamenti  vari;Ope10;;;18/03/2024;19/03/2024;
+Serra002;Protetta;Peperoni;Trattamenti  vari;Ope11;;;05/05/2024;06/05/2024;
+Serra002;Protetta;Peperoni;Raccolto;Ope10;;;02/06/2024;03/06/2024;42
