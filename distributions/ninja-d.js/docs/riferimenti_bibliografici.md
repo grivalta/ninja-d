@@ -1,6 +1,6 @@
 # Riferimenti biblio-sitografici
 
-La bibliografia esposta in questo repository riguarda sia riferimenti direttamente utilizzati durante il progetto sia riferimenti utili alla sua successiva evoluzione. Possono comparire inoltre ulteriori fonti utili ad un inquadramento generale dei molti e variegati temi o argomenti collegati più o meno direttamente al dominio ed ai contesti considerati.
+La bibliografia e la sitografia esposte in questo repository riguardano sia riferimenti direttamente utilizzati durante il progetto sia riferimenti utili alla sua successiva evoluzione. Possono contenere inoltre ulteriori fonti utili ad un inquadramento generale dei molteplici e variegati temi o argomenti collegati più o meno direttamente al dominio ed ai contesti considerati.
 
 Durante lo studio del caso aziendale agricolo simulato nel PW universitario e dell’ambito applicativo-tecnologico in progetto, ho fatto riferimento a precedenti ricerche bibliografiche e, in parte, a literacy review su molti argomenti diversi. I riferimenti citati nella seguente raccolta bibliografica sono stati consultati in modo più o meno approfondito a seconda del peso e delle necessità epistemiche del momento. I temi, gli argomenti ed i domini UDD (Universi Del Discorso) presi in considerazione corrispondono approssimativamente ai titoli dei paragrafi più sotto riportati.
 
