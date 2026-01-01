@@ -209,9 +209,9 @@ Nel nostro progetto abbiamo tratto utili informazioni da tali fonti anche per la
 
 ## Agricoltura sostenibile
 
-\[1\] federico.difilitto@lotrek.it, «ABOCA E LA RICERCA DI NUOVE COLTIVAZIONI BIOLOGICHE», Aboca. Consultato: 30 dicembre 2025. \[Online\]. Disponibile su: [https://www.aboca.com/it/news/aboca-e-la-ricerca-di-nuove-coltivazioni-biologiche/](https://www.aboca.com/it/news/aboca-e-la-ricerca-di-nuove-coltivazioni-biologiche/)
+\[1\] «ABOCA E LA RICERCA DI NUOVE COLTIVAZIONI BIOLOGICHE», Aboca. Consultato: 30 dicembre 2025. \[Online\]. Disponibile su: [https://www.aboca.com/it/news/aboca-e-la-ricerca-di-nuove-coltivazioni-biologiche/](https://www.aboca.com/it/news/aboca-e-la-ricerca-di-nuove-coltivazioni-biologiche/)
 
-\[2\] federico.difilitto@lotrek.it, «Aboca: la biodiversità al centro del sistema agricolo biologico», Aboca. Consultato: 16 dicembre 2025. \[Online\]. Disponibile su: [https://www.aboca.com/it/news/biodiversita-centro-sistema-agricolo-biologico/](https://www.aboca.com/it/news/biodiversita-centro-sistema-agricolo-biologico/)
+\[2\] «Aboca: la biodiversità al centro del sistema agricolo biologico», Aboca. Consultato: 16 dicembre 2025. \[Online\]. Disponibile su: [https://www.aboca.com/it/news/biodiversita-centro-sistema-agricolo-biologico/](https://www.aboca.com/it/news/biodiversita-centro-sistema-agricolo-biologico/)
 
 \[3\] «Agricoltura biologica», _Wikipedia_. 26 ottobre 2025. Consultato: 30 dicembre 2025. \[Online\]. Disponibile su: [https://it.wikipedia.org/w/index.php?title=Agricoltura\_biologica&oldid=147405740](https://it.wikipedia.org/w/index.php?title=Agricoltura_biologica&oldid=147405740)
 
@@ -237,13 +237,17 @@ Nel nostro progetto abbiamo tratto utili informazioni da tali fonti anche per la
 
 \[14\] P. Casale, «Bug hotel». Consultato: 30 dicembre 2025. \[Online\]. Disponibile su: [https://www.ateinsubriaolona.it/fai-da-te/bug-hotel/](https://www.ateinsubriaolona.it/fai-da-te/bug-hotel/)
 
-\[15\] \[16\] «Come si coltiva biologico», Associazione Italiana per l’Agricoltura Biologica. Consultato: 30 dicembre 2025. \[Online\]. Disponibile su: [https://aiab.it/come-si-coltiva-biologico/](https://aiab.it/come-si-coltiva-biologico/)
+\[15\] «Climate Action». Consultato: 30 dicembre 2025. \[Online\]. Disponibile su: [https://commission.europa.eu/about/departments-and-executive-agencies/climate-action\_en](https://commission.europa.eu/about/departments-and-executive-agencies/climate-action_en)
+
+\[16\] «Come si coltiva biologico», Associazione Italiana per l’Agricoltura Biologica. Consultato: 30 dicembre 2025. \[Online\]. Disponibile su: [https://aiab.it/come-si-coltiva-biologico/](https://aiab.it/come-si-coltiva-biologico/)
 
 \[17\] R. Bartolini, «Concimazione a dose variabile: quali dati per la ricetta giusta?», Il Nuovo Agricoltore. Consultato: 30 dicembre 2025. \[Online\]. Disponibile su: [https://www.ilnuovoagricoltore.it/concimazione-a-dose-variabile-quali-dati-per-la-ricetta-giusta/](https://www.ilnuovoagricoltore.it/concimazione-a-dose-variabile-quali-dati-per-la-ricetta-giusta/)
 
 \[18\] R. D. Benedictis, «Cosa sono i bugs hotel», Rigeneriamo il territorio. Consultato: 30 dicembre 2025. \[Online\]. Disponibile su: [https://www.rigeneriamoterritorio.it/cosa-sono-i-bugs-hotel-come-aiutano-preservare-biodiversita/](https://www.rigeneriamoterritorio.it/cosa-sono-i-bugs-hotel-come-aiutano-preservare-biodiversita/)
 
-\[19\] \[20\] «FederBio. Il biologico italiano in movimento», FederBio. Consultato: 30 dicembre 2025. \[Online\]. Disponibile su: [https://feder.bio/](https://feder.bio/)
+\[19\] «Difesa fitosanitaria a basso apporto di prodotti fitosanitari», Regione Piemonte. Consultato: 31 dicembre 2025. [Online]. Disponibile su: https://www.regione.piemonte.it/web/temi/agricoltura/servizi-fitosanitari-pan/difesa-fitosanitaria-basso-apporto-prodotti-fitosanitari
+
+\[20\] «FederBio. Il biologico italiano in movimento», FederBio. Consultato: 30 dicembre 2025. \[Online\]. Disponibile su: [https://feder.bio/](https://feder.bio/)
 
 \[21\] «FSDN - Agriculture and rural development - European Commission». Consultato: 31 dicembre 2025. \[Online\]. Disponibile su: [https://agriculture.ec.europa.eu/data-and-analysis/farm-structures-and-economics/fsdn\_en](https://agriculture.ec.europa.eu/data-and-analysis/farm-structures-and-economics/fsdn_en)
 
@@ -261,7 +265,9 @@ Nel nostro progetto abbiamo tratto utili informazioni da tali fonti anche per la
 
 \[28\] «L’agricoltura di precisione e il futuro dell’agricoltura in Europa | Think Tank | Parlamento Europeo». Consultato: 31 dicembre 2025. \[Online\]. Disponibile su: [https://www.europarl.europa.eu/thinktank/it/document/EPRS\_STU(2016)581892](https://www.europarl.europa.eu/thinktank/it/document/EPRS_STU(2016)581892)
 
-\[29\] \[30\] «L’IMPORTANZA DELLA RINTRACCIABILITÀ NELLE FILIERE AGROALIMENTARI». Consultato: 30 dicembre 2025. \[Online\]. Disponibile su: [https://www.qualitiamo.com/punto%20normativa/20080221.html](https://www.qualitiamo.com/punto%20normativa/20080221.html)
+\[29\] «L’agricoltura rigenerativa è un modello sostenibile per il futuro dell’Europa», Il Nuovo Agricoltore. \[Online\]. Disponibile su: [https://www.ilnuovoagricoltore.it/lagricoltura-rigenerativa-e-un-modello-sostenibile-per-il-futuro-delleuropa/](https://www.ilnuovoagricoltore.it/lagricoltura-rigenerativa-e-un-modello-sostenibile-per-il-futuro-delleuropa/)
+
+\[30\] «L’IMPORTANZA DELLA RINTRACCIABILITÀ NELLE FILIERE AGROALIMENTARI». Consultato: 30 dicembre 2025. \[Online\]. Disponibile su: [https://www.qualitiamo.com/punto%20normativa/20080221.html](https://www.qualitiamo.com/punto%20normativa/20080221.html)
 
 \[31\] R. Bartolini, «La mappatura del suolo, primo pilastro per applicare l’agricoltura di precisione», Il Nuovo Agricoltore. Consultato: 30 dicembre 2025. \[Online\]. Disponibile su: [https://www.ilnuovoagricoltore.it/la-mappatura-del-suolo-primo-pilastro-per-applicare-lagricoltura-di-precisione/](https://www.ilnuovoagricoltore.it/la-mappatura-del-suolo-primo-pilastro-per-applicare-lagricoltura-di-precisione/)
 
